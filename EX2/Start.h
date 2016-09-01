@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "cellHome.h"
 
-@interface ViewController : UIViewController
+@interface Start : UIViewController
 
 
 @end
